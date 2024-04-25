@@ -1,0 +1,32 @@
+{
+  "loader": {
+    "version": "1.0",
+    "download_link": "https://example.com/loader_v1.0.zip"
+  },
+  "dependencies": [
+    {
+      "name": "Dependency 1",
+      "link": "https://example.com/dependency1"
+    },
+    {
+      "name": "Dependency 2",
+      "link": "https://example.com/dependency2"
+    },
+    {
+      "name": "Dependency 3",
+      "link": "https://example.com/dependency3"
+    },
+    {
+      "name": "Dependency 4",
+      "link": "https://example.com/dependency4"
+    },
+    {
+      "name": "Dependency 5",
+      "link": "https://example.com/dependency5"
+    },
+    {
+      "name": "Dependency 6",
+      "link": "https://example.com/dependency6"
+    }
+  ]
+}
