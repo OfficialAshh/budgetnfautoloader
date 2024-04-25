@@ -1,38 +1,43 @@
 {
   "loader": {
     "version": "1.0",
-    "download_link": "http://dl.dropboxusercontent.com/scl/fi/1g5bumxdes5s9gca81993/Budget-NF-Menu.exe?rlkey=6055byfqnietwvie029ttwxow&st=l9vfc4tf&dl=0"
+    "download_link": "http://dl.dropboxusercontent.com/scl/fi/t9tigm4nuje8axur4i9qf/Budget-NF.exe?rlkey=rs42uqmnogldcyse6rcnyfia4&st=i4qfddqe&dl=0"
   },
   "dependencies": [
     {
       "name": "Dependency 1",
       "filename": "vmm.dll",
-      "link": "https://example.com/dependency24"
+      "link": "http://dl.dropboxusercontent.com/scl/fi/blfp2qtay74c8iojwmy6g/vmm.dll?rlkey=qc0635g0l5wurko4uy7br9bms&st=ir2qudtc&dl=0"
     },
     {
       "name": "Dependency 2",
       "filename": "leechcore.dll",
-      "link": "https://example.com/dependency2"
+      "link": "http://dl.dropboxusercontent.com/scl/fi/xwukbil1lvewwbtof4s1d/leechcore.dll?rlkey=4vl1qo0u33962pyf8wkqzaaem&st=s2bi8cqx&dl=0"
     },
     {
       "name": "Dependency 3",
       "filename": "FTD3XX.dll",
-      "link": "https://example.com/dependency3"
+      "link": "http://dl.dropboxusercontent.com/scl/fi/ll1ro0r55c6mjxdl72d9j/FTD3XX.dll?rlkey=pzo179jbszdmwabsdq7a1473k&st=me9qrtmh&dl=0"
     },
     {
       "name": "Dependency 4",
       "filename": "sfml-system-2.dll",
-      "link": "https://example.com/dependency4"
+      "link": "http://dl.dropboxusercontent.com/scl/fi/hsfnf2hcm4fux789o24uo/sfml-system-2.dll?rlkey=olavnykwuao1q48eli4xi9ppl&st=hna37l4v&dl=0"
     },
     {
       "name": "Dependency 5",
       "filename": "sfml-window-2.dll",
-      "link": "https://example.com/dependency5"
+      "link": "http://dl.dropboxusercontent.com/scl/fi/dfinkgr7jo6f4igt9u2zi/sfml-window-2.dll?rlkey=fjtv2wsg085veirx6puhiqghq&st=xwt7ucrh&dl=0"
     },
     {
       "name": "Dependency 6",
       "filename": "sfml-graphics-2.dll",
-      "link": "https://example.com/dependency6"
+      "link": "http://dl.dropboxusercontent.com/scl/fi/dmgc1bgaffuwec67687w1/sfml-graphics-2.dll?rlkey=8z0m7jx6ekgquj1uu19xm1v76&st=84kcrvft&dl=0"
+    },
+    {
+      "name": "Dependency 7",
+      "filename": "Budget NF Menu.exe",
+      "link": "http://dl.dropboxusercontent.com/scl/fi/1g5bumxdes5s9gca81993/Budget-NF-Menu.exe?rlkey=6055byfqnietwvie029ttwxow&st=l9vfc4tf&dl=0"
     }
   ]
 }
